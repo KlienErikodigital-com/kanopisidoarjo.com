@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://kanopisidoarjo.com/</loc>
-		<lastmod>2025-05-11T10:00:44+00:00</lastmod>
+		<lastmod>2025-05-15T07:02:21+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-08-at-19.37.41-2-scaled.jpeg</image:loc>
 		</image:image>
@@ -62,8 +62,181 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://kanopisidoarjo.com/portofolio/</loc>
-		<lastmod>2025-05-11T10:20:43+00:00</lastmod>
+		<loc>https://kanopisidoarjo.com/berita</loc>
+		<lastmod>2025-05-16T03:42:36+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-17-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-16-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-15-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-14-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-18-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-12-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-11-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-10-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-9-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-8-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-7-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-6-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-5-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-4-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-3-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-2-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-1-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2013-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-17-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-16-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-15-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-14-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-18-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-12-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-11-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-10-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-9-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-8-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-7-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-6-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-5-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-4-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-3-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-2-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-1-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi205-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-17-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-16-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-15-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-14-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-18-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-12-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-11-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-10-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-9-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-8-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-7-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-6-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-5-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-4-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-3-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-2-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-1-300x300.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/kanopi2011-300x300.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kanopisidoarjo.com/kontak</loc>
+		<lastmod>2025-05-15T07:00:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://kanopisidoarjo.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://kanopisidoarjo.com/portofolio</loc>
+		<lastmod>2025-05-15T06:59:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-08-at-19.37.40-1-scaled.jpeg</image:loc>
 		</image:image>
@@ -120,8 +293,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://kanopisidoarjo.com/kanopi/</loc>
-		<lastmod>2025-05-11T10:18:33+00:00</lastmod>
+		<loc>https://kanopisidoarjo.com/kanopi</loc>
+		<lastmod>2025-05-15T06:57:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-08-at-19.37.02-1-scaled.jpeg</image:loc>
 		</image:image>
@@ -163,15 +336,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://kanopisidoarjo.com/kontak/</loc>
-		<lastmod>2025-05-11T10:12:56+00:00</lastmod>
-		<image:image>
-			<image:loc>https://kanopisidoarjo.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://kanopisidoarjo.com/tentang/</loc>
-		<lastmod>2025-05-11T10:03:16+00:00</lastmod>
+		<loc>https://kanopisidoarjo.com/tentang</loc>
+		<lastmod>2025-05-15T06:52:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://kanopisidoarjo.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-08-at-19.38.02-1-scaled.jpeg</image:loc>
 		</image:image>
